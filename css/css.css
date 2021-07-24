@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: aqua;
+	
+}
+
+<title>Style test</title>	
+<style type="text/css">
+h1{
+font-size: 30px;
+color: teal;
+}
+
+h2{ 
+color: red;
+font-size: 20px;
+}
+</style>
